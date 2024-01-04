@@ -1,0 +1,834 @@
+/*
+*
+*
+contact layout 1 start
+*
+*
+*/
+.ega-contact-layout1 .ega-contact-form1-wrapper {
+  padding: 100px 0;
+  background: url(../../assets/images/form-shapes/contact-1.png);
+  background-size: cover;
+  min-height: 100vh;
+}
+.ega-contact-layout1 .ega-contact-form1-wrapper .contact-logo {
+  position: absolute;
+  top: 30px;
+  left: 50px;
+}
+.ega-contact-layout1 .ega-contact-form1-wrapper .contact-form1 {
+  background: #FFFFFF;
+  box-shadow: 12px 19px 62px rgba(13, 52, 79, 0.1);
+  border-radius: 20px;
+  padding: 45px 80px;
+  width: 640px;
+}
+.ega-contact-layout1 .ega-contact-form1-wrapper .contact-form1 h5.contact-form-title {
+  font-weight: 500;
+  font-size: 30px;
+  color: #F09900;
+  padding-bottom: 5px;
+  margin-bottom: 40px;
+  display: inline-block;
+  border-bottom: 1px solid #F09900;
+}
+.ega-contact-layout1 .ega-contact-form1-wrapper .contact-form1 .ege-input-group {
+  margin-bottom: 20px;
+}
+.ega-contact-layout1 .ega-contact-form1-wrapper .contact-form1 .ege-input-group label {
+  font-size: 16px;
+  color: #454545;
+  margin-bottom: 12px;
+}
+.ega-contact-layout1 .ega-contact-form1-wrapper .contact-form1 .ege-input-group input {
+  height: 50px;
+}
+.ega-contact-layout1 .ega-contact-form1-wrapper .contact-form1 .ege-input-group input,
+.ega-contact-layout1 .ega-contact-form1-wrapper .contact-form1 .ege-input-group textarea {
+  width: 100%;
+  display: block;
+  border: 1px solid #EEEEEE;
+  box-sizing: border-box;
+  border-radius: 5px;
+  padding: 10px 15px;
+}
+.ega-contact-layout1 .ega-contact-form1-wrapper .contact-form1 .ege-submit-input input[type=submit] {
+  font-weight: 500;
+  font-size: 17px;
+  color: #FFFFFF;
+  background: #F09900;
+  border-radius: 5px;
+  padding: 12px 45px;
+  border: none;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+/*
+*
+*
+contact layout 1 end
+*
+*
+*/
+.ega-contact-layout2 .ega-contact-form2-wrapper {
+  min-height: 100vh;
+  overflow: auto;
+}
+.ega-contact-layout2 .ega-contact-form2-wrapper .contact-form1-wrap {
+  flex-basis: 40%;
+}
+.ega-contact-layout2 .ega-contact-form2-wrapper .contact-form1-wrap .contact-form2 {
+  max-width: 470px;
+  margin: 0 30px;
+}
+.ega-contact-layout2 .ega-contact-form2-wrapper .contact-form1-wrap .contact-form2 h5.contact-form-title {
+  font-weight: 500;
+  font-size: 30px;
+  color: #0670C7;
+  padding-bottom: 5px;
+  margin-bottom: 40px;
+  display: inline-block;
+  border-bottom: 1px solid #0670C7;
+}
+.ega-contact-layout2 .ega-contact-form2-wrapper .contact-form1-wrap .contact-form2 .ege-input-group {
+  margin-bottom: 20px;
+}
+.ega-contact-layout2 .ega-contact-form2-wrapper .contact-form1-wrap .contact-form2 .ege-input-group label {
+  font-size: 16px;
+  color: #454545;
+  margin-bottom: 12px;
+}
+.ega-contact-layout2 .ega-contact-form2-wrapper .contact-form1-wrap .contact-form2 .ege-input-group input {
+  height: 50px;
+}
+.ega-contact-layout2 .ega-contact-form2-wrapper .contact-form1-wrap .contact-form2 .ege-input-group input,
+.ega-contact-layout2 .ega-contact-form2-wrapper .contact-form1-wrap .contact-form2 .ege-input-group textarea {
+  width: 100%;
+  display: block;
+  border: 1px solid #EEEEEE;
+  box-sizing: border-box;
+  border-radius: 5px;
+  border-radius: 30px;
+  padding: 10px 15px;
+}
+.ega-contact-layout2 .ega-contact-form2-wrapper .contact-form1-wrap .contact-form2 .ege-submit-input input[type=submit] {
+  font-weight: 500;
+  font-size: 17px;
+  color: #FFFFFF;
+  padding: 12px 45px;
+  border: none;
+  display: inline-block;
+  margin-top: 20px;
+  background: #0670C7;
+  border-radius: 30px;
+}
+.ega-contact-layout2 .ega-contact-form2-wrapper .contact-form-video-wrap {
+  flex-basis: 60%;
+  background: url(../images/form-image/contact2-bg.png) no-repeat center;
+  background-size: cover;
+  position: relative;
+}
+.ega-contact-layout2 .ega-contact-form2-wrapper .contact-form-video-wrap::before {
+  content: "";
+  position: absolute;
+  inset: 0px;
+  background: linear-gradient(139.38deg, rgba(0, 0, 0, 0.8) 15.94%, rgba(0, 0, 0, 0.8) 106.1%);
+}
+.ega-contact-layout2 .ega-contact-form2-wrapper .contact-form-video-wrap .ege-contact-form2-video {
+  height: 60px;
+  width: 60px;
+  text-align: center;
+  line-height: 50px;
+  background: rgba(255, 255, 255, 0.1);
+  color: #ffffff;
+  border-radius: 50%;
+  cursor: pointer;
+  position: relative;
+}
+.ega-contact-layout2 .ega-contact-form2-wrapper .contact-form-video-wrap .ege-contact-form2-video span {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: #fff;
+  border-radius: 50%;
+  display: inline-block;
+  animation: video-pulse 3s linear infinite;
+  animation-delay: calc(-0.5s * var(--i));
+}
+@keyframes video-pulse {
+  0% {
+    transform: scale(1);
+    opacity: 0.5;
+  }
+  100% {
+    transform: scale(2.2);
+    opacity: 0;
+  }
+}
+.ega-contact-layout2 .ega-contact-form2-wrapper .contact-form-video-wrap .ege-contact-form2-video a {
+  color: #FF9472;
+}
+.ega-contact-layout2 .ega-contact-form2-wrapper .contact-form-video-wrap .ege-contact-form2-video i {
+  font-size: 28px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #FF0B0B;
+}
+.ega-contact-layout2 .ega-contact-form2-wrapper .contact-form-video-wrap .ege-contact-form2-video i::before {
+  vertical-align: middle;
+}
+
+/*
+*
+*
+contact layout 2 end
+*
+*
+*/
+/*
+*
+*
+contact layout 3 start
+*
+*
+*/
+.ega-contact-layout3 .ega-contact-form3-wrapper {
+  background: url(../../assets/images/form-shapes/contact-3.png);
+  background-size: cover;
+}
+.ega-contact-layout3 .ega-contact-form3-wrapper .ege-input-group {
+  margin-bottom: 20px;
+}
+.ega-contact-layout3 .ega-contact-form3-wrapper .ege-input-group input,
+.ega-contact-layout3 .ega-contact-form3-wrapper .ege-input-group textarea {
+  border-top: none !important;
+  border-left: none !important;
+  border-right: none !important;
+  border-bottom: 1px solid #eee !important;
+  border-radius: 0 !important;
+}
+
+/*
+*
+*
+contact layout 3 end
+*
+*
+*/
+/*
+*
+*
+contact layout 4 start
+*
+*
+*/
+.ega-contact-layout4 .ega-contact-form1-wrapper.ega-contact-form1-wrapper {
+  background: white;
+}
+
+.ega-contact-layout4 .ega-contact-form4-wrapper {
+  height: 100%;
+  min-height: 100vh;
+}
+.ega-contact-layout4 .ega-contact-form4-wrapper .contact-form4-content {
+  flex-basis: 60%;
+  background: linear-gradient(rgba(97, 97, 97, 0.7) 100%, rgba(97, 97, 97, 0.7) 100%), url(../../assets/images/form-shapes/contact-4.png);
+}
+.ega-contact-layout4 .ega-contact-form4-wrapper .contact-form4-content .content-form4-content-wrap {
+  max-width: 640px;
+  margin: 0 40px;
+}
+.ega-contact-layout4 .ega-contact-form4-wrapper .contact-form4-content .content-form4-content-wrap p {
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.ega-contact-layout4 .ega-contact-form4-wrapper .contact-form4-content .content-form4-content-wrap h3 {
+  font-weight: 500;
+  font-size: 30px;
+  color: #F09900;
+  padding-bottom: 5px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  display: inline-block;
+  border-bottom: 1px solid #F09900;
+}
+.ega-contact-layout4 .ega-contact-form4-wrapper .contact-form4-content .content-form4-content-wrap ul.social-icons li {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  border: 1px solid #EEEEEE;
+  margin: 0 12px;
+  line-height: 38px;
+  text-align: center;
+  transition: all 0.3s;
+}
+.ega-contact-layout4 .ega-contact-form4-wrapper .contact-form4-content .content-form4-content-wrap ul.social-icons li:hover {
+  background: #F09900;
+  border: 1px solid #F09900;
+}
+.ega-contact-layout4 .ega-contact-form4-wrapper .contact-form4-content .content-form4-content-wrap ul.social-icons li:hover i {
+  color: #fff;
+}
+.ega-contact-layout4 .ega-contact-form4-wrapper .contact-form4-content .content-form4-content-wrap ul.social-icons li i {
+  color: #F09900;
+  font-size: 20px;
+  transition: all 0.3s;
+}
+.ega-contact-layout4 .ega-contact-form4-wrapper .contact-form4-content .content-form4-content-wrap ul.social-icons li i::before {
+  vertical-align: middle;
+}
+.ega-contact-layout4 .ega-contact-form4-wrapper .contact-form4-wrap {
+  flex-basis: 40%;
+}
+.ega-contact-layout4 .ega-contact-form4-wrapper .contact-form4-wrap .contact-form4 {
+  width: 400px;
+  margin: 0 30px;
+  padding: 100px 0;
+}
+.ega-contact-layout4 .ega-contact-form4-wrapper .contact-form4-wrap .contact-form4 h5.contact-form-title {
+  font-weight: 500;
+  font-size: 30px;
+  color: #F09900;
+  padding-bottom: 5px;
+  margin-bottom: 40px;
+  display: inline-block;
+  border-bottom: 1px solid #F09900;
+}
+.ega-contact-layout4 .ega-contact-form4-wrapper .contact-form4-wrap .contact-form4 .ege-input-group {
+  margin-bottom: 20px;
+}
+.ega-contact-layout4 .ega-contact-form4-wrapper .contact-form4-wrap .contact-form4 .ege-input-group label {
+  font-size: 16px;
+  color: #454545;
+  margin-bottom: 12px;
+}
+.ega-contact-layout4 .ega-contact-form4-wrapper .contact-form4-wrap .contact-form4 .ege-input-group input {
+  height: 50px;
+}
+.ega-contact-layout4 .ega-contact-form4-wrapper .contact-form4-wrap .contact-form4 .ege-input-group input,
+.ega-contact-layout4 .ega-contact-form4-wrapper .contact-form4-wrap .contact-form4 .ege-input-group textarea {
+  width: 100%;
+  display: block;
+  border: 1px solid #EEEEEE;
+  box-sizing: border-box;
+  border-radius: 5px;
+  padding: 10px 15px;
+}
+.ega-contact-layout4 .ega-contact-form4-wrapper .contact-form4-wrap .contact-form4 .ege-submit-input input[type=submit] {
+  font-weight: 500;
+  font-size: 17px;
+  color: #FFFFFF;
+  background: #F09900;
+  border-radius: 5px;
+  padding: 12px 45px;
+  border: none;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+/*
+*
+*
+contact layout 4 end
+*
+*
+*/
+/*
+*
+*
+contact layout 5 start
+*
+*
+*/
+.ega-contact-layout5 .ega-contact-form5-wrapper {
+  background: linear-gradient(rgba(97, 97, 97, 0.9) 100%, rgba(97, 97, 97, 0.9) 100%), url(../../assets/images/form-image/map.png);
+  min-height: 100vh;
+}
+.ega-contact-layout5 .ega-contact-form5-wrapper .ege-form5-content {
+  flex-basis: 50%;
+  padding: 100px 0;
+  position: relative;
+}
+.ega-contact-layout5 .ega-contact-form5-wrapper .ege-form5-content::before {
+  position: absolute;
+  content: "";
+  left: 0;
+  top: 0;
+  background: #4F4F4F;
+  clip-path: circle(61.2% at 30% 25%);
+  width: 658px;
+  height: 562px;
+}
+.ega-contact-layout5 .ega-contact-form5-wrapper .ege-form5-content .ega-social-wrap {
+  margin-left: 80px;
+  max-width: 400px;
+}
+.ega-contact-layout5 .ega-contact-form5-wrapper .ege-form5-content .ega-social-wrap h3 {
+  font-weight: 500;
+  font-size: 30px;
+  color: #F09900;
+  padding-bottom: 5px;
+  margin-bottom: 25px;
+  display: inline-block;
+  border-bottom: 1px solid #F09900;
+}
+.ega-contact-layout5 .ega-contact-form5-wrapper .ege-form5-content .ega-social-wrap ul.social-icons li {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  border: 1px solid #F09900;
+  margin: 0 12px;
+  line-height: 38px;
+  text-align: center;
+  transition: all 0.3s;
+}
+.ega-contact-layout5 .ega-contact-form5-wrapper .ege-form5-content .ega-social-wrap ul.social-icons li:hover {
+  background: #F09900;
+  border: 1px solid #F09900;
+}
+.ega-contact-layout5 .ega-contact-form5-wrapper .ege-form5-content .ega-social-wrap ul.social-icons li:hover i {
+  color: #fff;
+}
+.ega-contact-layout5 .ega-contact-form5-wrapper .ege-form5-content .ega-social-wrap ul.social-icons li i {
+  color: #F09900;
+  font-size: 20px;
+  transition: all 0.3s;
+}
+.ega-contact-layout5 .ega-contact-form5-wrapper .ege-form5-content .ega-social-wrap ul.social-icons li i::before {
+  vertical-align: middle;
+}
+.ega-contact-layout5 .ega-contact-form5-wrapper .ege-form5-content .ega-social-wrap .homt-btn {
+  margin-top: 30px;
+}
+.ega-contact-layout5 .ega-contact-form5-wrapper .ege-form5-content .ega-social-wrap .homt-btn a {
+  display: inline-block;
+  font-weight: 500;
+  font-size: 18px;
+  color: #FFFFFF;
+  padding: 12px 30px;
+  background: #F09900;
+  border-radius: 5px;
+}
+.ega-contact-layout5 .ega-contact-form5-wrapper .ege-form5-content .ega-social-wrap .homt-btn a i {
+  font-size: 20px;
+  margin-right: 5px;
+}
+.ega-contact-layout5 .ega-contact-form5-wrapper .ege-form5-content .ega-social-wrap .homt-btn a i::before {
+  vertical-align: middle;
+}
+.ega-contact-layout5 .ega-contact-form5-wrapper .ege-form5-wrap {
+  padding: 100px 0;
+  flex-basis: 50%;
+}
+.ega-contact-layout5 .ega-contact-form5-wrapper .ege-form5-wrap .contact-form5 {
+  background: #FFFFFF;
+  box-shadow: 12px 19px 62px rgba(13, 52, 79, 0.1);
+  border-radius: 0px 20px;
+  padding: 0px 55px 35px 55px;
+  width: 500px;
+}
+.ega-contact-layout5 .ega-contact-form5-wrapper .ege-form5-wrap .contact-form5 .form5-top {
+  padding: 20px 0 30px 0;
+  background: #F09900;
+  margin-bottom: 20px;
+  clip-path: ellipse(50% 100% at 50% 0%);
+}
+.ega-contact-layout5 .ega-contact-form5-wrapper .ege-form5-wrap .contact-form5 h5.contact-form-title {
+  font-weight: 500;
+  font-size: 30px;
+  color: #Fff;
+  padding-bottom: 5px;
+  display: inline-block;
+  border-bottom: 1px solid #fff;
+}
+.ega-contact-layout5 .ega-contact-form5-wrapper .ege-form5-wrap .contact-form5 .ege-input-group {
+  margin-bottom: 20px;
+}
+.ega-contact-layout5 .ega-contact-form5-wrapper .ege-form5-wrap .contact-form5 .ege-input-group label {
+  font-size: 16px;
+  color: #454545;
+  margin-bottom: 12px;
+}
+.ega-contact-layout5 .ega-contact-form5-wrapper .ege-form5-wrap .contact-form5 .ege-input-group input {
+  height: 50px;
+}
+.ega-contact-layout5 .ega-contact-form5-wrapper .ege-form5-wrap .contact-form5 .ege-input-group input,
+.ega-contact-layout5 .ega-contact-form5-wrapper .ege-form5-wrap .contact-form5 .ege-input-group textarea {
+  width: 100%;
+  display: block;
+  border: 1px solid #EEEEEE;
+  box-sizing: border-box;
+  border-radius: 5px;
+  padding: 10px 15px;
+}
+.ega-contact-layout5 .ega-contact-form5-wrapper .ege-form5-wrap .contact-form5 .ege-submit-input input[type=submit] {
+  font-weight: 500;
+  font-size: 17px;
+  color: #FFFFFF;
+  background: #F09900;
+  border-radius: 5px;
+  padding: 12px 45px;
+  border: none;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+/*
+*
+*
+contact layout 5 end
+*
+*
+*/
+/*
+*
+*
+contact layout 6 start
+*
+*
+*/
+.ega-contact-layout6 .ega-contact-form6-wrapper {
+  height: auto;
+  width: 100%;
+  background: linear-gradient(rgba(18, 14, 24, 0.9) 100%, rgba(18, 14, 24, 0.9) 100%), url(../../assets/images/form-image/login-bg-2.png);
+  color: rgba(18, 14, 24, 0.9);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow-y: hidden;
+  padding: 80px 0;
+}
+.ega-contact-layout6 .ega-contact-form6-wrapper .ege-logo {
+  margin: 20px;
+  position: absolute;
+  top: 30px;
+  left: 20px;
+}
+.ega-contact-layout6 .ega-contact-form6-wrapper .ega-contact-form6-content {
+  max-width: 700px;
+  padding: 70px 80px;
+  background: rgba(18, 14, 24, 0.4);
+  box-shadow: 12px 19px 62px rgba(13, 52, 79, 0.1);
+  border-radius: 20px;
+  margin: 0 20px;
+}
+.ega-contact-layout6 .ega-contact-form6-wrapper h4.ega-form-title {
+  font-weight: 500;
+  font-size: 30px;
+  color: #F09900;
+  display: inline-block;
+  padding-bottom: 6px;
+  border-bottom: 2px solid #F09900;
+}
+.ega-contact-layout6 .ega-contact-form6-wrapper .ega-form-check {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.ega-contact-layout6 .ega-contact-form6-wrapper .ega-form-check .ega-form-checkbox {
+  display: flex;
+  align-items: center;
+}
+.ega-contact-layout6 .ega-contact-form6-wrapper .ega-form-check .ega-form-checkbox input[type=checkbox] {
+  height: 16px;
+  width: 16px;
+  background: transparent;
+}
+.ega-contact-layout6 .ega-contact-form6-wrapper .ega-form-check .ega-form-checkbox label.ega-form-label {
+  color: #646D82;
+  font-size: 0.875rem;
+  margin-left: 8px;
+}
+.ega-contact-layout6 .ega-contact-form6-wrapper .ega-form-check .ega-form-checkbox label.ega-form-label span, .ega-contact-layout6 .ega-contact-form6-wrapper .ega-form-check .ega-form-checkbox label.ega-form-label a {
+  color: #fff;
+}
+.ega-contact-layout6 .ega-contact-form6-wrapper .ega-input-group {
+  margin-top: 25px;
+}
+.ega-contact-layout6 .ega-contact-form6-wrapper .ega-input-group label.ega-form-label {
+  display: inline-block;
+  font-size: 1rem;
+  color: #AEAEAE;
+  margin-bottom: 10px;
+}
+.ega-contact-layout6 .ega-contact-form6-wrapper .ega-input-group input.ega-login-input {
+  width: 100%;
+  display: block;
+  background: transparent;
+  border: 1px solid #EEEEEE;
+  box-sizing: border-box;
+  border-radius: 5px;
+  height: 50px;
+  padding: 15px;
+  color: #fff;
+}
+.ega-contact-layout6 .ega-contact-form6-wrapper .ega-input-group textarea {
+  width: 100%;
+  display: block;
+  background: transparent;
+  border: 1px solid #EEEEEE;
+  box-sizing: border-box;
+  border-radius: 5px;
+  padding: 15px;
+  color: #fff;
+}
+.ega-contact-layout6 .ega-contact-form6-wrapper .ega-submit-btn {
+  margin-top: 35px;
+}
+.ega-contact-layout6 .ega-contact-form6-wrapper .ega-submit-btn input[type=submit] {
+  height: 50px;
+  padding: 0 50px;
+  background: #F09900;
+  border-radius: 5px;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  color: #FFFFFF;
+  outline: none;
+  border: none;
+}
+
+/*
+*
+*
+contact layout 6 end
+*
+*
+*/
+/*
+*
+*
+contact layout 7 start
+*
+*
+*/
+.ega-contact-layout7 .ega-contact-form7-wrapper {
+  height: auto;
+  width: 100%;
+  background: linear-gradient(rgba(18, 14, 24, 0.9) 100%, rgba(18, 14, 24, 0.9) 100%), url(../../assets/images/form-image/login-bg-2.png);
+  color: rgba(18, 14, 24, 0.9);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  overflow-y: hidden;
+  padding: 80px 0;
+}
+.ega-contact-layout7 .ega-contact-form7-wrapper .ege-logo {
+  margin: 20px;
+  position: absolute;
+  top: 30px;
+  left: 20px;
+}
+.ega-contact-layout7 .ega-contact-form7-wrapper .ega-contact-form7-content {
+  max-width: 700px;
+  padding: 70px 80px;
+  background: #fff;
+  box-shadow: 12px 19px 62px rgba(13, 52, 79, 0.1);
+  border-radius: 20px;
+  margin: 0 20px;
+}
+.ega-contact-layout7 .ega-contact-form7-wrapper .ega-contact-form7-content h4.ega-form-title {
+  font-weight: 500;
+  font-size: 30px;
+  color: #F09900;
+  display: inline-block;
+  padding-bottom: 6px;
+  border-bottom: 2px solid #F09900;
+}
+.ega-contact-layout7 .ega-contact-form7-wrapper .ega-contact-form7-content .ega-form-check {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.ega-contact-layout7 .ega-contact-form7-wrapper .ega-contact-form7-content .ega-form-check .ega-form-checkbox {
+  display: flex;
+  align-items: center;
+}
+.ega-contact-layout7 .ega-contact-form7-wrapper .ega-contact-form7-content .ega-form-check .ega-form-checkbox input[type=checkbox] {
+  height: 16px;
+  width: 16px;
+  background: transparent;
+}
+.ega-contact-layout7 .ega-contact-form7-wrapper .ega-contact-form7-content .ega-form-check .ega-form-checkbox label.ega-form-label {
+  color: #646D82;
+  font-size: 0.875rem;
+  margin-left: 8px;
+}
+.ega-contact-layout7 .ega-contact-form7-wrapper .ega-contact-form7-content .ega-form-check .ega-form-checkbox label.ega-form-label span, .ega-contact-layout7 .ega-contact-form7-wrapper .ega-contact-form7-content .ega-form-check .ega-form-checkbox label.ega-form-label a {
+  color: #fff;
+}
+.ega-contact-layout7 .ega-contact-form7-wrapper .ega-contact-form7-content .ega-input-group {
+  margin-top: 25px;
+}
+.ega-contact-layout7 .ega-contact-form7-wrapper .ega-contact-form7-content .ega-input-group label.ega-form-label {
+  display: inline-block;
+  font-size: 1rem;
+  color: #AEAEAE;
+  margin-bottom: 10px;
+}
+.ega-contact-layout7 .ega-contact-form7-wrapper .ega-contact-form7-content .ega-input-group input.ega-login-input {
+  width: 100%;
+  display: block;
+  background: transparent;
+  border: 1px solid #EEEEEE;
+  box-sizing: border-box;
+  height: 50px;
+  padding: 15px;
+  color: #000;
+  border-radius: 30px;
+}
+.ega-contact-layout7 .ega-contact-form7-wrapper .ega-contact-form7-content .ega-input-group textarea {
+  width: 100%;
+  display: block;
+  background: transparent;
+  border: 1px solid #EEEEEE;
+  box-sizing: border-box;
+  border-radius: 30px;
+  padding: 15px;
+  color: #000;
+}
+.ega-contact-layout7 .ega-contact-form7-wrapper .ega-contact-form7-content .ega-submit-btn {
+  margin-top: 35px;
+}
+.ega-contact-layout7 .ega-contact-form7-wrapper .ega-contact-form7-content .ega-submit-btn input[type=submit] {
+  height: 50px;
+  padding: 0 50px;
+  background: #F09900;
+  border-radius: 5px;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  color: #FFFFFF;
+  outline: none;
+  border: none;
+}
+
+/*
+*
+*
+contact layout 7 end
+*
+*
+*/
+/*
+*
+*
+contact layout 8 start
+*
+*
+*/
+.ega-contact-layout8 {
+  position: relative;
+}
+.ega-contact-layout8 .ega-contact-form8-wrapper {
+  padding: 100px 0;
+}
+.ega-contact-layout8 .ega-contact-form8-wrapper .ega-contact-form8-content {
+  max-width: 470px;
+  background: #fff;
+  margin: 0 auto;
+}
+.ega-contact-layout8 .ega-contact-form8-wrapper .ega-contact-form8-content h4.ega-form-title {
+  font-weight: 500;
+  font-size: 30px;
+  color: #F09900;
+  display: inline-block;
+  padding-bottom: 6px;
+  border-bottom: 2px solid #F09900;
+}
+.ega-contact-layout8 .ega-contact-form8-wrapper .ega-contact-form8-content .ega-form-check {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.ega-contact-layout8 .ega-contact-form8-wrapper .ega-contact-form8-content .ega-form-check .ega-form-checkbox {
+  display: flex;
+  align-items: center;
+}
+.ega-contact-layout8 .ega-contact-form8-wrapper .ega-contact-form8-content .ega-form-check .ega-form-checkbox input[type=checkbox] {
+  height: 16px;
+  width: 16px;
+  background: transparent;
+}
+.ega-contact-layout8 .ega-contact-form8-wrapper .ega-contact-form8-content .ega-form-check .ega-form-checkbox label.ega-form-label {
+  color: #646D82;
+  font-size: 0.875rem;
+  margin-left: 8px;
+}
+.ega-contact-layout8 .ega-contact-form8-wrapper .ega-contact-form8-content .ega-form-check .ega-form-checkbox label.ega-form-label span, .ega-contact-layout8 .ega-contact-form8-wrapper .ega-contact-form8-content .ega-form-check .ega-form-checkbox label.ega-form-label a {
+  color: #fff;
+}
+.ega-contact-layout8 .ega-contact-form8-wrapper .ega-contact-form8-content .ega-input-group {
+  margin-top: 25px;
+}
+.ega-contact-layout8 .ega-contact-form8-wrapper .ega-contact-form8-content .ega-input-group label.ega-form-label {
+  display: inline-block;
+  font-size: 1rem;
+  color: #AEAEAE;
+  margin-bottom: 10px;
+}
+.ega-contact-layout8 .ega-contact-form8-wrapper .ega-contact-form8-content .ega-input-group input.ega-login-input {
+  width: 100%;
+  display: block;
+  background: transparent;
+  border: 1px solid #EEEEEE;
+  box-sizing: border-box;
+  height: 50px;
+  padding: 15px;
+  color: #000;
+}
+.ega-contact-layout8 .ega-contact-form8-wrapper .ega-contact-form8-content .ega-input-group textarea {
+  width: 100%;
+  display: block;
+  background: transparent;
+  border: 1px solid #EEEEEE;
+  box-sizing: border-box;
+  padding: 15px;
+  color: #000;
+}
+.ega-contact-layout8 .ega-contact-form8-wrapper .ega-contact-form8-content .ega-submit-btn {
+  margin-top: 35px;
+}
+.ega-contact-layout8 .ega-contact-form8-wrapper .ega-contact-form8-content .ega-submit-btn input[type=submit] {
+  height: 50px;
+  padding: 0 50px;
+  background: #F09900;
+  border-radius: 5px;
+  font-weight: 500;
+  font-size: 1.125rem;
+  line-height: 21px;
+  display: flex;
+  align-items: center;
+  color: #FFFFFF;
+  outline: none;
+  border: none;
+}
+.ega-contact-layout8 .ege-contact-form8-illustration {
+  padding: 80px 50px;
+  background: #FFBC46;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+}
+
+/*
+*
+*
+contact layout 8 end
+*
+*
+*/
+
+/*# sourceMappingURL=contact.css.map */

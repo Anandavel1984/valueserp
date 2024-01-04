@@ -1,0 +1,828 @@
+/* XXL Layout*/
+@media only screen and (min-width: 1201px) and (max-width: 1400px) {
+  /******
+  login form 3 responsive
+  ******/
+  .ege-login-layout3 .ege-login-layout3-wrapper::before {
+    display: none;
+  }
+
+  .ege-login-layout3 .ege-login-layout3-wrapper .ega-login-form3-wrap {
+    margin-right: 0;
+  }
+
+  /******
+  login form 3 responsive
+  ******/
+}
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  /******
+  login form 3 responsive
+  ******/
+  .ege-login-layout3 .ege-login-layout3-wrapper::before {
+    display: none;
+  }
+
+  .ege-login-layout3 .ege-login-layout3-wrapper .ega-login-form3-wrap {
+    margin: 80px 30px;
+  }
+
+  /******
+  login form 3 responsive
+  ******/
+  /******
+  login form 4 responsive
+  ******/
+  .ege-login-layout4 .ege-login-layout4-wrapper .ege-login-form4-wrap .ege-login-form4 .ega-login-form-four-top .ega-social-login-btn a.ega-social-login {
+    padding: 12px 40px;
+    font-size: 1rem;
+  }
+
+  .ege-login-layout4 .ege-login-layout4-wrapper .ege-login-form4-wrap {
+    flex-basis: 45%;
+  }
+
+  .ege-login-layout4 .ege-login-layout4-wrapper .ege-login-form4-bg {
+    flex-basis: 55%;
+  }
+
+  .ege-login-layout4 .ege-login-layout4-wrapper .ege-login-form4-wrap .ege-page-switcher-4 {
+    top: 115px;
+    left: -160px;
+  }
+
+  .ege-login-layout4 .ege-login-layout4-wrapper .ege-login-form4-bg {
+    clip-path: none;
+  }
+
+  /******
+  login form 4 responsive
+  ******/
+  /******
+  login form 5 responsive
+  ******/
+  .ege-login-layout5 .ege-login-layout5-wrapper .ege-login-form5-wrap {
+    flex-basis: 45%;
+  }
+
+  .ege-login-layout5 .ege-login-layout5-wrapper .ege-login-form5-bg {
+    flex-basis: 55%;
+  }
+
+  /******
+  login form 5 responsive
+  ******/
+  /******
+  login form 6 responsive
+  ******/
+  .ege-login-layout6 .ege-login-layout6-wrapper .ege-login-form6-wrap .ege-login-form6 .ega-login-form6-top .ega-social-login-btn a.ega-social-login {
+    padding: 12px 40px;
+    font-size: 1rem;
+  }
+
+  .ege-login-layout6 .ege-login-layout6-wrapper .ege-login-form6-wrap {
+    flex-basis: 45%;
+  }
+
+  .ege-login-layout6 .ege-login-layout6-wrapper .ege-login-form6-bg {
+    flex-basis: 55%;
+  }
+
+  .ege-login-layout6 .ege-login-layout6-wrapper .ege-login-form6-wrap .ege-page-switcher-6 {
+    top: 115px;
+    left: -160px;
+  }
+
+  .ege-login-layout6 .ege-login-layout6-wrapper .ege-login-form6-bg {
+    clip-path: none;
+  }
+
+  /******
+  login form 6 responsive
+  ******/
+  /******
+  Multi-step form 1 responsive
+  ******/
+  .ege-multistep-layout-v1 .ege-multistep-layout1-wrapper .ms-form-tabs {
+    width: 800px;
+  }
+
+  .ege-multistep-layout-v1 .ege-multistep-layout1-wrapper .ms-main-form {
+    max-width: 700px;
+  }
+
+  /******
+  Multi-step form 1 responsive
+  ******/
+}
+/* Tablet Layout: 768px. */
+/* Wide Mobile Layout: 480px. */
+/* Tablet & Mobile Layout: 768px. */
+@media only screen and (max-width: 991px) {
+  /******
+  contact form 6-7 responsive
+  ******/
+  .ega-contact-layout6 .ega-contact-form6-wrapper .ege-logo, .ega-contact-layout7 .ega-contact-form7-wrapper .ege-logo {
+    position: static;
+    margin-bottom: 40px;
+  }
+
+  /******
+  contact form  6-7 responsive
+  ******/
+  /******
+  contact form 2 responsive
+  ******/
+  .ega-contact-layout2 .ega-contact-form2-wrapper .contact-form1-wrap {
+    flex-basis: 50%;
+    padding: 60px 0;
+  }
+
+  .ega-contact-layout2 .ega-contact-form2-wrapper .contact-form-video-wrap {
+    flex-basis: 50%;
+  }
+
+  /******
+  contact form 2 responsive
+  ******/
+  /******
+  Multi-step form 1 responsive
+  ******/
+  .ege-multistep-layout-v1 .ege-multistep-layout1-wrapper .ms-form-tabs {
+    width: 700px;
+  }
+
+  .ege-multistep-layout-v1 .ege-multistep-layout1-wrapper .ms-form-tabs .ms-tab-box a.ms-tab-link {
+    height: 55px;
+    width: 55px;
+    line-height: 55px;
+  }
+  .ege-multistep-layout-v1 .ege-multistep-layout1-wrapper .ms-form-tabs .ms-tab-box a.ms-tab-link i {
+    font-size: 20px;
+  }
+
+  .ege-multistep-layout-v1 .ege-multistep-layout1-wrapper .ms-main-form {
+    max-width: 600px;
+  }
+
+  /******
+  Multi-step form 1 responsive
+  ******/
+  /******
+  login form 1 responsive
+  ******/
+  .ega-login-layout1 .ege-login-layout1-wrapper .ege-login-form1-wrap .ega-login-form1-content {
+    max-width: 470px;
+    width: auto;
+  }
+
+  /******
+  login form 1 responsive
+  ******/
+  /******
+  login form 3 responsive
+  ******/
+  .ege-login-layout3 .ege-login-layout3-wrapper::before {
+    display: none;
+  }
+
+  .ege-login-layout3 .ege-login-layout3-wrapper .ega-login-form3-wrap {
+    margin-right: 0;
+  }
+
+  /******
+  login form 3 responsive
+  ******/
+  /******
+  login form 4 responsive
+  ******/
+  .ege-login-layout4 .ege-login-layout4-wrapper .ege-login-form4-bg {
+    clip-path: none;
+  }
+
+  .ege-login-layout4 .ege-login-layout4-wrapper .ege-login-form4-wrap .ege-login-form4 .ega-login-form-four-top .ega-social-login-btn a.ega-social-login {
+    padding: 12px 30px;
+    font-size: 1rem;
+  }
+
+  .ege-login-layout4 .ege-login-layout4-wrapper .ege-login-form4-wrap {
+    flex-basis: 50%;
+  }
+
+  .ege-login-layout4 .ege-login-layout4-wrapper .ege-login-form4-bg {
+    flex-basis: 50%;
+  }
+
+  .ege-login-layout4 .ege-login-layout4-wrapper .ege-login-form4-wrap .ege-page-switcher-4 {
+    top: 115px;
+    left: -160px;
+  }
+
+  .ege-login-layout4 .ege-login-layout4-wrapper .ege-login-form4-bg {
+    clip-path: none;
+  }
+
+  /******
+  login form 4 responsive
+  ******/
+  /******
+  login form 5 responsive
+  ******/
+  .ege-login-layout5 .ege-login-layout5-wrapper .ege-login-form5-wrap {
+    flex-basis: 50%;
+  }
+
+  .ege-login-layout5 .ege-login-layout5-wrapper .ege-login-form5-bg {
+    flex-basis: 50%;
+  }
+
+  /******
+  login form 5 responsive
+  ******/
+  /******
+  login form 6 responsive
+  ******/
+  .ege-login-layout4 .ege-login-layout4-wrapper .ege-login-form4-bg {
+    clip-path: none;
+  }
+
+  .ege-login-layout6 .ege-login-layout6-wrapper .ege-login-form6-wrap .ege-login-form6 .ega-login-form6-top .ega-social-login-btn a.ega-social-login {
+    padding: 12px 30px;
+    font-size: 1rem;
+  }
+
+  .ege-login-layout6 .ege-login-layout6-wrapper .ege-login-form6-wrap {
+    flex-basis: 50%;
+  }
+
+  .ege-login-layout6 .ege-login-layout6-wrapper .ege-login-form6-bg {
+    flex-basis: 50%;
+  }
+
+  .ege-login-layout6 .ege-login-layout6-wrapper .ege-login-form6-wrap .ege-page-switcher-6 {
+    top: 115px;
+    left: -160px;
+  }
+
+  .ege-login-layout6 .ege-login-layout6-wrapper .ege-login-form6-bg {
+    clip-path: none;
+  }
+
+  /******
+  login form 6 responsive
+  ******/
+  .ega-contact-layout8 .ege-contact-form8-illustration {
+    min-height: auto;
+    padding: 100px 0;
+  }
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+  /******
+     OTP form 1,2,3,4,5,6,7,8 responsive
+     ******/
+  .ega-otp-layout1 .ega-otp-form1-content form.otp-screen .ege-form-row input.otp-input {
+    margin: 0 5px;
+    height: 40px;
+    width: 40px;
+    padding: 10px;
+  }
+
+  .ega-otp-layout1 .ega-otp-form1-content form.otp-screen .ege-form-row {
+    justify-content: center;
+  }
+
+  .ega-otp-layout1 .ega-otp-form1-content {
+    padding: 30px 10px;
+    width: 100%;
+  }
+
+  .ega-otp-layout2 .ega-otp-form2-content, .ega-otp-layout3 .ega-otp-form3-content, .ega-otp-layout4 .ega-otp-form4-content, .ega-otp-layout5 .ega-otp-form5-content {
+    padding: 50px 20px;
+  }
+
+  .ega-otp-layout5 .ega-otp-form5-content form.otp-screen .ege-form-row input.otp-input {
+    height: 40px;
+    width: 40px;
+    padding: 10px;
+    margin: 0 5px;
+  }
+
+  .ega-otp-layout8 .ega-otp-form8-content, .ega-otp-layout7 .ega-otp-form7-content, .ega-otp-layout6 .ega-otp-form6-content {
+    padding: 30px;
+  }
+
+  .ega-otp-layout5 .ega-otp-form5-content form.otp-screen {
+    margin: 100px 10px;
+  }
+
+  /******
+     OTP form 1 responsive
+     ******/
+  /******
+  contact form 7 responsive
+  ******/
+  .ega-contact-layout6 .ega-contact-form6-wrapper .ega-contact-form6-content, .ega-contact-layout7 .ega-contact-form7-wrapper .ega-contact-form7-content {
+    padding: 50px 65px;
+  }
+
+  /******
+  contact form 7 responsive
+  ******/
+  /******
+  contact form 4 responsive
+  ******/
+  .ega-contact-layout4 .ega-contact-form4-wrapper .contact-form4-content {
+    flex-basis: 100%;
+    padding: 80px 0;
+  }
+
+  .ega-contact-layout4 .ega-contact-form4-wrapper .contact-form4-wrap {
+    flex-basis: 100%;
+  }
+
+  .ega-contact-layout4 .ega-contact-form4-wrapper {
+    flex-wrap: wrap;
+  }
+
+  /******
+  contact form 4 responsive
+  ******/
+  /******
+  contact form 2 responsive
+  ******/
+  .ega-contact-layout2 .ega-contact-form2-wrapper {
+    height: auto;
+    overflow: auto;
+  }
+
+  .ega-contact-layout2 .ega-contact-form2-wrapper {
+    flex-direction: column;
+  }
+
+  .ega-contact-layout2 .ega-contact-form2-wrapper .contact-form-video-wrap {
+    padding: 200px 0;
+  }
+
+  /******
+  contact form 2 responsive
+  ******/
+  /******
+  contact form 1 responsive
+  ******/
+  .ega-contact-layout1 .ega-contact-form1-wrapper .contact-form1 {
+    padding: 40px 60px;
+    width: 550px;
+  }
+
+  .ega-contact-layout1 .ega-contact-form1-wrapper .contact-logo {
+    position: static;
+    margin-bottom: 30px;
+  }
+
+  .ega-contact-layout1 .ega-contact-form1-wrapper {
+    padding: 70px 0;
+  }
+
+  /******
+  contact form 1 responsive
+  ******/
+  /******
+  Multi-step form 1 responsive
+  ******/
+  .ege-multistep-layout-v1 .ege-multistep-layout1-wrapper .ms-next-btn a {
+    font-size: 16px;
+    padding: 12px 20px;
+    margin: 0 16px;
+  }
+
+  .ege-multistep-layout-v1 .ege-multistep-layout1-wrapper .ms-main-form {
+    max-width: 500px;
+  }
+
+  .ege-multistep-layout-v1 .ege-multistep-layout1-wrapper .ms-form-top h2 {
+    font-size: 30px;
+  }
+
+  .ege-multistep-layout-v1 .ege-multistep-layout1-wrapper .ms-form-top p {
+    font-size: 18px;
+  }
+
+  .ege-multistep-layout-v1 .ege-multistep-layout1-wrapper .ms-form-tabs {
+    width: 600px;
+  }
+
+  .ege-multistep-layout-v1 .ege-multistep-layout1-wrapper .ms-form-tabs .ms-tab-box a.ms-tab-link {
+    height: 45px;
+    width: 45px;
+    line-height: 45px;
+  }
+  .ege-multistep-layout-v1 .ege-multistep-layout1-wrapper .ms-form-tabs .ms-tab-box a.ms-tab-link i {
+    font-size: 18px;
+  }
+
+  /******
+  Multi-step form 1 responsive
+  ******/
+  /******
+  login form 1 responsive
+  ******/
+  .ege-login-form1-illustration-wrap {
+    padding: 80px;
+  }
+
+  .ege-login-form1-wrap,
+.ege-login-form1-illustration-wrap {
+    width: 100% !important;
+  }
+
+  .ege-login-form1-wrap {
+    margin: 80px 0;
+  }
+
+  .ega-login-layout1 .ege-login-layout1-wrapper {
+    overflow-y: auto;
+  }
+
+  /******
+  login form 1 responsive
+  ******/
+  /******
+  login form 3 responsive
+  ******/
+  .ege-login-layout3 .ege-login-layout3-wrapper .ega-login-form3-wrap {
+    padding: 70px 60px;
+    margin: 80px 20px;
+  }
+
+  .ege-login-layout3 .ege-login-layout3-wrapper {
+    height: auto;
+  }
+
+  .ege-login-layout3.register-layout .ege-login-layout3-wrapper {
+    padding: 0;
+  }
+
+  /******
+  login form 3 responsive
+  ******/
+  /******
+  login form 2 responsive
+  ******/
+  .ege-login-layout2 .ege-login-layout2-wrapper {
+    overflow-y: auto;
+    height: auto;
+  }
+
+  .ege-login-layout2 .ege-login-layout2-wrapper .ega-login-form2-content {
+    padding: 65px 55px;
+  }
+
+  .ege-login-layout2 .ege-login-layout2-wrapper .ege-logo {
+    position: static;
+    margin-bottom: 40px;
+  }
+
+  /******
+  login form 2 responsive
+  ******/
+  /******
+  login form 4 responsive
+  ******/
+  .ege-login-layout4 .ege-login-layout4-wrapper .ege-login-form4-wrap .ege-login-form4 {
+    padding: 0 0;
+  }
+
+  .ege-login-layout4 .ege-login-layout4-wrapper .ege-login-form4-wrap .ege-login-form4 .ega-login-form-four-top .ega-social-login-btn a.ega-social-login {
+    padding: 12px 30px;
+    font-size: 1rem;
+  }
+
+  .ege-login-layout4 .ege-login-layout4-wrapper .ege-login-form4-wrap {
+    flex-basis: 100%;
+    padding: 80px 0;
+    flex-direction: column;
+  }
+
+  .ege-login-layout4 .ege-login-layout4-wrapper .ege-login-form4-bg {
+    flex-basis: 100%;
+    padding: 80px 0;
+  }
+
+  .ege-login-layout4 .ege-login-layout4-wrapper {
+    height: auto;
+    overflow: auto;
+  }
+
+  .ege-login-layout4 .ege-login-layout4-wrapper .ege-login-form4-wrap .ege-logo {
+    position: static;
+    margin-top: 0;
+  }
+
+  .ege-login-layout4 .ege-login-layout4-wrapper .ege-login-form4-wrap .ege-page-switcher-4 {
+    position: static;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+    margin-top: 15px;
+  }
+  .ege-login-layout4 .ege-login-layout4-wrapper .ege-login-form4-wrap .ege-page-switcher-4 a.switcher-btn.active {
+    background: #fff;
+    color: #262626;
+  }
+  .ege-login-layout4 .ege-login-layout4-wrapper .ege-login-form4-wrap .ege-page-switcher-4 a.switcher-btn {
+    display: inline-block;
+    padding: 8px 24px;
+    border-radius: 50px;
+    font-size: 0.875rem;
+  }
+
+  /******
+  login form 4 responsive
+  ******/
+  /******
+  login form 5 responsive
+  ******/
+  .ege-login-layout5 .ege-login-layout5-wrapper .ege-login-form5-wrap {
+    flex-basis: 100%;
+    padding: 80px 0;
+    flex-direction: column;
+  }
+
+  .ege-login-layout5 .ege-login-layout5-wrapper .ege-login-form5-bg {
+    flex-basis: 100%;
+    padding: 80px 0;
+  }
+
+  .ege-login-layout5 .ege-login-layout5-wrapper {
+    height: auto;
+    overflow: auto;
+  }
+
+  .ege-login-layout5 .ege-login-layout5-wrapper .ege-login-form5-wrap .ege-logo {
+    position: static;
+    margin: 0 0 30px 0;
+  }
+
+  .ege-login-layout5 .ege-login-layout5-wrapper .ege-login-form5-wrap .ege-login-form5 {
+    padding: 0 0;
+  }
+
+  /******
+  login form 5 responsive
+  ******/
+  /******
+  login form 6 responsive
+  ******/
+  .ege-login-layout6 .ege-login-layout6-wrapper .ege-login-form6-wrap .ege-login-form4 .ega-login-form6-top .ega-social-login-btn a.ega-social-login {
+    padding: 12px 30px;
+    font-size: 1rem;
+  }
+
+  .ege-login-layout6 .ege-login-layout6-wrapper .ege-login-form6-wrap {
+    flex-basis: 100%;
+    padding: 80px 0;
+    flex-direction: column;
+  }
+
+  .ege-login-layout6 .ege-login-layout6-wrapper .ege-login-form6-bg {
+    flex-basis: 100%;
+    padding: 80px 0;
+  }
+
+  .ege-login-layout6 .ege-login-layout6-wrapper {
+    height: auto;
+    overflow: auto;
+  }
+
+  .ege-login-layout6 .ege-login-layout6-wrapper .ege-login-form6-wrap .ege-logo {
+    position: static;
+    margin-top: 0;
+  }
+
+  .ege-login-layout6 .ege-login-layout6-wrapper .ege-login-form6-wrap .ege-page-switcher-6 {
+    position: static;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+    margin-top: 15px;
+  }
+  .ege-login-layout6 .ege-login-layout6-wrapper .ege-login-form6-wrap .ege-page-switcher-6 a.switcher-btn.active {
+    background: #293854;
+    color: #fff;
+  }
+  .ege-login-layout6 .ege-login-layout6-wrapper .ege-login-form6-wrap .ege-page-switcher-6 a.switcher-btn {
+    display: inline-block;
+    padding: 8px 24px;
+    border-radius: 50px;
+    font-size: 0.875rem;
+    color: #293854;
+  }
+
+  .ege-login-layout6 .ege-login-layout6-wrapper .ege-login-form6-wrap .ege-login-form6 {
+    padding: 0 0;
+  }
+
+  /******
+  login form 6 responsive
+  ******/
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 575.98px) {
+  /******
+  contact form 7 responsive
+  ******/
+  .ega-contact-layout6 .ega-contact-form6-wrapper .ega-contact-form6-content, .ega-contact-layout7 .ega-contact-form7-wrapper .ega-contact-form7-content {
+    padding: 38px 40px;
+  }
+
+  /******
+  contact form 7 responsive
+  ******/
+  /******
+  contact form 4 responsive
+  ******/
+  .ega-contact-layout4 .ega-contact-form4-wrapper .contact-form4-wrap .contact-form4 {
+    max-width: 400px;
+    width: auto;
+  }
+
+  /******
+  contact form 4 responsive
+  ******/
+  /******
+  contact form 1 responsive
+  ******/
+  .ega-contact-layout1 .ega-contact-form1-wrapper .contact-form1 {
+    padding: 25px 25px;
+    width: 325px;
+  }
+
+  .ega-contact-layout1 .ega-contact-form1-wrapper .contact-form1 h5.contact-form-title {
+    font-size: 23px;
+    margin-bottom: 30px;
+  }
+
+  /******
+  contact form 1 responsive
+  ******/
+  /******
+  Multi-step form 1 responsive
+  ******/
+  .ege-multistep-layout-v1 .ege-multistep-layout1-wrapper .ms-next-btn a {
+    font-size: 14px;
+    padding: 12px 16px;
+    margin: 0 14px;
+  }
+
+  .ege-multistep-layout-v1 .ege-multistep-layout1-wrapper .ms-form-top h2 {
+    font-size: 26px;
+  }
+
+  .ege-multistep-layout-v1 .ege-multistep-layout1-wrapper .ms-form-top p {
+    font-size: 16px;
+  }
+
+  .ege-multistep-layout-v1 .ege-multistep-layout1-wrapper .ms-form-tabs {
+    width: 400px;
+  }
+
+  .ege-multistep-layout-v1 .ege-multistep-layout1-wrapper .ms-form-tabs .ms-tab-box a.ms-tab-link {
+    height: 30px;
+    width: 30px;
+    line-height: 30px;
+  }
+  .ege-multistep-layout-v1 .ege-multistep-layout1-wrapper .ms-form-tabs .ms-tab-box a.ms-tab-link i {
+    font-size: 14px;
+  }
+
+  .ege-multistep-layout-v1 .ege-multistep-layout1-wrapper .ms-form-tabs .ms-tab-box p {
+    position: absolute;
+    top: 110%;
+    font-size: 12px;
+    color: #454545;
+  }
+
+  .ege-multistep-layout-v1 .ege-multistep-layout1-wrapper .ms-form-tabs .ms-tab-box::before,
+.ege-multistep-layout-v1 .ege-multistep-layout1-wrapper .ms-form-tabs .ms-tab-box::after {
+    height: 2px;
+  }
+
+  /******
+  Multi-step form 1 responsive
+  ******/
+  /******
+  login form 1 responsive
+  ******/
+  .ega-login-form-one-wrapper {
+    overflow-y: visible;
+  }
+
+  .ega-login-form-one-wrapper .ega-login-form-1 {
+    flex-direction: column;
+    display: flex;
+  }
+
+  .ega-login-form-one-wrapper .ega-login-form-1 .ega-login-form-left .ega-login-form-content {
+    margin: 30px 0;
+  }
+
+  .ega-login-form-one-wrapper .ega-login-form-1 .ega-login-form-right .ega-login-form-illustration img {
+    height: 50vh;
+  }
+
+  .ega-login-form-one-wrapper .ega-login-form-1 .ega-login-form-left .ega-login-form-content h4.ega-form-title {
+    font-size: 22px;
+    margin-bottom: 24px;
+    padding-bottom: 0;
+  }
+
+  .ega-login-form-one-wrapper .ega-login-form-1 .ega-login-form-left .ega-login-form-content .ega-input-group input[type=text].ega-login-input-1,
+.ega-login-form-one-wrapper .ega-login-form-1 .ega-login-form-left .ega-login-form-content .ega-input-group input[type=password].ega-login-input-1 {
+    height: 44px;
+    margin-bottom: 20px;
+  }
+
+  .ega-login-form-one-wrapper .ega-login-form-1 .ega-login-form-left .ega-login-form-content .ega-input-group input[type=submit].ega-login-input-1 {
+    height: 42px;
+    padding: 0 35px;
+    font-size: 1rem;
+    margin-top: 30px;
+    margin-bottom: 25px;
+  }
+
+  /******
+  login form 1 responsive
+  ******/
+  /******
+  login form 3 responsive
+  ******/
+  .ege-login-layout3 .ege-login-layout3-wrapper .ega-login-form3-wrap {
+    padding: 40px 30px;
+  }
+
+  .ege-login-layout3 .ege-login-layout3-wrapper .ega-login-form3-wrap .ega-login-form3-top .ega-social-login-btn a.ega-social-login {
+    padding: 10px 0px;
+    font-weight: 500;
+    font-size: 14px;
+  }
+
+  .ege-login-layout3 .ege-login-layout3-wrapper .ega-login-form3-wrap .ega-login-form-three-content h4.ega-form-title {
+    font-size: 24px;
+  }
+
+  .ege-login-layout3.register-layout .ege-login-layout3-wrapper .ega-login-form3-wrap {
+    padding: 40px 30px;
+  }
+
+  /******
+  login form 3 responsive
+  ******/
+  /******
+  login form 2 responsive
+  ******/
+  .ege-login-layout2 .ege-login-layout2-wrapper .ega-login-form2-content {
+    padding: 30px;
+  }
+
+  /******
+  login form 2 responsive
+  ******/
+  /******
+  login form 4 responsive
+  ******/
+  .ege-login-layout4 .ege-login-layout4-wrapper .ege-login-form4-bg .login-form4-content .ege-back-home-btn a {
+    font-weight: 500;
+    font-size: 1rem;
+    padding: 14px 32px;
+  }
+
+  .ege-login-layout4 .ege-login-layout4-wrapper .ege-login-form4-wrap .ege-login-form4 .ega-login-form-four-top .ega-social-login-btn a.ega-social-login {
+    padding: 12px 24px;
+    font-size: 0.875rem;
+  }
+
+  /******
+  login form 4 responsive
+  ******/
+  /******
+  login form 6 responsive
+  ******/
+  .ege-login-layout6 .ege-login-layout6-wrapper .ege-login-form6-bg .login-form6-content .ege-back-home-btn a {
+    font-weight: 500;
+    font-size: 1rem;
+    padding: 14px 32px;
+  }
+
+  .ege-login-layout6 .ege-login-layout6-wrapper .ege-login-form6-wrap .ege-login-form6 .ega-login-form6-top .ega-social-login-btn a.ega-social-login {
+    padding: 12px 24px;
+    font-size: 0.875rem;
+  }
+
+  /******
+  login form 6 responsive
+  ******/
+}
+
+/*# sourceMappingURL=demo-responsive.css.map */

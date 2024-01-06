@@ -16,7 +16,6 @@ if(isset($_POST['sq1'])){
         'q' => $searchquery
       ]);
       
-      //https://api.valueserp.com/search?api_key=demo&q=
       $ch = curl_init(sprintf('%s?%s', 'https://api.valueserp.com/search', $queryString));
       
       curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
@@ -29,9 +28,9 @@ if(isset($_POST['sq1'])){
       curl_close($ch);
       
       $results[] = json_decode($api_result, true);
-      $request_info = $results[1]['request_info']['success'];
-      $organic_results = $results[1]['organic_results'];
-      //print_r($organic_results);exit();
+      $request_info = $results[1]['request_info']['success']??0;
+      $organic_results = $results[1]['organic_results']??'';
+      
       if($request_info){
         
         $spreadsheet->getProperties()->setTitle("excelsheet");
@@ -69,6 +68,8 @@ if(isset($_POST['sq1'])){
         header($headerContent);
         $writer->save('php://output');
           
+    }else{
+        echo "<script>alert('There is no results');window.location.href = 'index.php';</script>";
     }
 
 }

@@ -22,7 +22,7 @@
 <div class="ege-input-group">
 <label for="user-name">Search Query</label>
 <input type="text" id="sq1" name="sq1" required>
-<p>Search for multiple data separated by comma(,)</p>
+<p>search the for results,Enter the data separated by comma(Pizza,Noida Delhi)</p>
 </div>
 <div class="ege-submit-input">
 <input type="submit" value="Search">

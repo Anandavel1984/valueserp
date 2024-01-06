@@ -1,7 +1,9 @@
-ValueSERP API 
-Download the project file.
-Install composer
-Need to  Add PHPSpreadSheet library in folder. use following commond
-composer require phpoffice/phpspreadsheet
+#ValueSERP API 
+###Download the valueserp files.
+###tall composer
+###Need to  Add PHPSpreadSheet library inside folder. 
+###se following commond
+###composer require phpoffice/phpspreadsheet
+###Now run
 
 
